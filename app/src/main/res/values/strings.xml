@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">MyQuizApp</string>
+
+    <string name="q1">The developer\'s is Moinul</string>
+    <string name="q1_ans">true</string>
+    <string name="q2">He works at Facebook</string>
+    <string name="q2_ans">false</string>
+    <string name="q3">He live in Dublin</string>
+    <string name="q3_ans">true</string>
+
+    <string name="false_button">False</string>
+    <string name="true_button">True</string>
+
 </resources>
